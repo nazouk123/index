@@ -1,0 +1,36 @@
+body{
+	background-color: #FFC55A;
+	color:#FF76CE;
+	font-family: courier;
+
+}
+h1,h2,h3{
+	font-family: 'DM Sans', sans-serif;
+
+}
+h1{
+	color: green;
+	font-weight: 400;
+	letter-spacing: 10px;
+	font-size: 60px;
+}
+h2{
+	color: red;
+	font-weight: 700;
+	letter-spacing: 10px;
+	font-size: 60px
+}
+a {
+	text-decoration: none;
+	color: yellow;
+}
+a:hover {
+
+	color: black;
+}	
+
+div {
+	background: white;
+	border: 2px solid black;
+	margin: 10px;
+}
